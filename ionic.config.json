@@ -1,0 +1,7 @@
+{
+  "name": "gamesapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
